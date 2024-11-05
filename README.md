@@ -2,5 +2,3 @@
 <p align="center">
   <h3 align="center">Je ne suis pas dev mais je développe !</h3>
 </p>
-
-<div align="center">
