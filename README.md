@@ -1,16 +1,25 @@
-## Hi there 👋
+![left 100%](images/bandeau-readme.png?raw=true)
 
-<!--
-**BerangGitHub/BerangGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_`Début du projet le 10/09/2021`_
 
-Here are some ideas to get you started:
+<!-- LOGO DU PROJET -->
+<br />
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- DESCRIPTION DU PROJET -->
+  <h3 align="center">Un bon template README</h3>
+  <p align="center">
+Un modèle de fichier génial pour lancer vos projets !
+    <br />
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme"><strong>>> Explorer les documents <<</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/blob/main/BLANK_README.md">Voir la démo</a>
+    ·
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/pulls">Rapport de Bug</a>
+    ·
+    <a href="https://github.com/thierry-laval/P22-template-pour-un-readme/issues">Demande de fonctionnalité</a>
+  </p>
+</p>
+
+<div align="center">
